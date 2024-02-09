@@ -1,4 +1,6 @@
 <h1 align="center">📰News Aggregator Mobiel App</h1>
+![logo](https://github.com/athi5622/News_aggregator/blob/main/photo_2024-02-09_17-15-30.jpg)
+https://github.com/athi5622/News_aggregator/blob/main/photo_2024-02-09_17-15-30.jpg
 <h3 align="center">Using 🚀 Flutter,Dart,Dependency:Shared_prefernce</h3>
 
 
